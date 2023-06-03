@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+body
+{
+    font-family: 'Indie Flower', sans-serif;
+}
+.bhaskara__titulo
+    {
+        font-size: 19px;
+    }
+#matematica
+    {
+        background:  yellow;
+    }
+#delta
+    {
+        font-weight: 700;
+    }
+#small
+    {
+        font-size: 8px;
+    }

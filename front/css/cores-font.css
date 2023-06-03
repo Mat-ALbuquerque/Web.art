@@ -12,16 +12,33 @@
     {
         color: rgb(181, 47, 255);
     }
+.aula-cores__tag-p span:nth-child(1)
+    {
+        text-decoration: line-through;
+    }
+.aula-cores__tag-p span:nth-child(2)
+    {
+        text-decoration: underline;
+    }
 .aula-cores__hex 
     {
         color: #51FF79;
-    }      
+    }  
 .aula-cores__rgba 
     {
         color: rgba(0, 0, 255, 0.5);
         background: red;
     }
-.aula-cores__hsl 
+.aula-texto__text
     {
-        color: hsl(hue, saturation, lightness);
+        text-align: center;
+        text-transform: uppercase;
+        white-space: normal;
+        word-break: break-word;
+    }
+.aula-texto__text::first-letter
+    {
+        color: red;
+        text-transform: uppercase;
+        letter-spacing: 5px;
     }
