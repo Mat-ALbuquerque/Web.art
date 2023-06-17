@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: blueviolet;
+}
+.body {
+    position: static;
+    width: 1180px;
+    height: 96px;
+    left: 370px;
+    top: 467px;
+}
+.desafio1__titulo {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+}
+.desafio1__texto {
+    text-align: center;
+    color: #FFFFFF;
+}
